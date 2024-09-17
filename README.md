@@ -1,1 +1,1 @@
-https://github.com/joelhuzuliakdev/cv-solo-html.git
+https://github.com/joelhuzuliakdev/cv-solo-html
