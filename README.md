@@ -1,1 +1,1 @@
-CV de Joel Huzuliak
+https://github.com/joelhuzuliakdev/cv-solo-html.git
