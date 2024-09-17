@@ -1,1 +1,1 @@
-https://github.com/joelhuzuliakdev/cv-solo-html/tree/main/cv
+http://127.0.0.1:5500/index.html
